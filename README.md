@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming language
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me aabdulsamir@gmai.com
+- 📫 How to reach me aabdulsamir@gmail.com
 
 <!---
 sameereinstein/sameereinstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
